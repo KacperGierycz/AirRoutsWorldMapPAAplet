@@ -15,6 +15,7 @@ Technical inside of mine program It's an adaptation of an Air route and Airports
 5. The AirportMap class handles most user interactions (clicks, mouse moves, etc) features.
  <br>
  * a) creation of a RouteMarker type List objects in a constructor.
+ * 
  * b) mouseMoved class with modification of an airport list and addition of a route list. 
  * c) selectMarkerIfHover I modify to accommodate new route list and AirporList 
  * d) mouse clicked there is an addition of checkAirportsForAirClick helper method 
