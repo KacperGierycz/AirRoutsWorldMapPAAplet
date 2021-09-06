@@ -20,8 +20,10 @@ Technical inside of mine program It's an adaptation of an Air route and Airports
  * d) mouse clicked there is an addition of checkAirportsForAirClick helper method 
  * e) checkCitiesForClicke) checkCitiesForClick there is a distance to the closest Airports set to make them not Hiden on click 
  * f) checkAirportsForAirClick This one is new and logic is added to show an AirportMarker on click with its routs and a Airports of their destinations when all others are hidden.
- * g)unhideMarkers like a original one 
+ * g) unhideMarkers like a original one 
  * h) The key I adapted to new Makers.
+
+<br>
 
 The PAAPlet is unfortunatly dead technology now and it's use is limited to java 1.6  Working applikation is use like a import to the IDE and runn in the best of circumstancess. The main calsses of project included to view. There is a greate funn creating GUIs
 
