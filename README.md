@@ -1,7 +1,7 @@
 # AirRoutsWorldMapPAAplet
 
 
-I present a screenshot of my program and explain it. This is an Air route map that is displaying 3 kinds of markers in changing configurations. First, you are starting with all markers on a map with is a little overwhelming but if you click on a City or an Airport suddenly almost everything is gone with exception of markers of interest. There is aCity click logic and visualization to show the nearest Airfields and no roust is visible then.
+I present a screenshot of my program and explain it. This is an Air route map that is displaying 3 kinds of markers in changing configurations. First, you are starting witch all markers on a map with is a little overwhelming but if you click on a City or an Airport suddenly almost everything is gone with exception of markers of interest. There is a City click logic and visualization to show the nearest Airfields and no rout is visible then.
 If you click on an Airport there all other markers are gone besides those going out or to chosen airport. with an airport of destination shown. You can freely mouse over a Cites and be shown airports to get a Tittle from them. Key is adopted to a new Markers
 There is a reset like in previous versions if you click anywhere on a screen all markers will be viable again.
 
@@ -24,7 +24,7 @@ Technical inside of mine program It's an adaptation of an Air route and Airports
 
 <br><br>
 
-The PAAPlet is unfortunatly dead technology now and it's use is limited to java 1.6  Working applikation is use like a import to the IDE and runn in the best of circumstancess. The main calsses of project included to view. There is a greate funn creating GUIs
+The PAAPlet is unfortunatly dead technology now and it's use is limited to java 1.6  Working applikation is use like a import to the IDE and runn in the best of circumstancess. The main classes of project included to view. There is a greate funn creating GUIs
 
 
 
